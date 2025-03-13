@@ -8,4 +8,4 @@ print(Number1 + Number2)
 
 Current_level = input("Write your level: ")
 
-print(Current_level + 3)
+print(Current_level  +  3)
